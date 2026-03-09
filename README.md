@@ -15,5 +15,3 @@
   Streaming UIs, progressive rendering, developer tooling, and where design meets performance.
 
   Outside of code: climbing outdoors and thinking about systems — both digital and natural.
-
-  ---
