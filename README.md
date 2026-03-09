@@ -17,7 +17,3 @@
   Outside of code: climbing outdoors and thinking about systems — both digital and natural.
 
   ---
-
-  ### Let's connect
-  
-  [X](https://x.com/DiegoGBrisa) · [LinkedIn](https://www.linkedin.com/in/diego-garcia-brisa/)
