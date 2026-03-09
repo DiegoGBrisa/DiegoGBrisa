@@ -1,54 +1,24 @@
-# 👋 Hi, I'm Diego García
+# Diego García
 
-Software Engineer who builds systems that breathe — from front-end interactions to full-stack architectures.  
-Curious about **TanStack Start**, **streaming UIs**, and the edge where design meets performance.
+  Software engineer building across the stack with TypeScript, React, and Node.
 
----
+  Currently at **[DERTOUR Group](https://www.dertour-group.com/en/home/)**.
 
-### 💻 What I’m up to
-- 🔭 Building software at **[DERTOUR Deutschland GmbH](https://www.dertour-group.com/en/home/)**
-- 🧠 Exploring **TanStack Start**, **React**, **Vite**, and progressive rendering patterns
-- ⚙️ Working across the stack — I thrive on front-end design but build back-end systems whenever needed
-- 🌿 Interested in how technology can align with ecological thinking
-- 🧗‍♂️ I love climbing outdoors — it keeps my balance when code gets abstract
-- Exploring the posibioities with **Claude Code**
+  ---
 
----
+  ### What I'm building
 
-### 🚀 Current goals
-- Contribute to **open-source** projects focused on clarity and maintainability  
-- Deepen expertise in **streaming data interfaces** and **full-stack TypeScript**  
-- Keep exploring systems — both digital and natural — that scale with grace
+  - **[OpenWaggle](https://github.com/DiegoGBrisa/OpenWaggle)** — Desktop coding agent with multi-model LLM support. Electron + React 19 + TanStack AI.
 
----
+  ### Interests
 
-### 📊 GitHub Stats
+  Streaming UIs, progressive rendering, developer tooling, and where design meets performance.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diego-tech-dev&theme=onestar&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
+  Outside of code: climbing outdoors and thinking about systems — both digital and natural.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego-tech-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-tech-dev&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
+  ---
 
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://github.com/diego-tech-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-diego--tech--dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/diegogb_dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-@diegogb_dev-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.linkedin.com/in/diego-garcia-brisa/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Diego_Garcia_Brisa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
+  [X](https://x.com/DiegoGBrisa) · [LinkedIn](https://www.linkedin.com/in/diego-garcia-brisa/)
 ---
 
 > “Simplicity is not the absence of complexity, but the mastery of it.”
