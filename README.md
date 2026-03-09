@@ -18,7 +18,6 @@
 
   ---
 
+  ### Let's connect
+  
   [X](https://x.com/DiegoGBrisa) · [LinkedIn](https://www.linkedin.com/in/diego-garcia-brisa/)
----
-
-> “Simplicity is not the absence of complexity, but the mastery of it.”
