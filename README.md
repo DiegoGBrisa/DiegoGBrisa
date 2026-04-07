@@ -8,7 +8,7 @@
 
   ### What I'm building
 
-  - **[OpenWaggle](https://github.com/DiegoGBrisa/OpenWaggle)** — Desktop coding agent with multi-model LLM support. Electron + React 19 + TanStack AI.
+  - **[OpenWaggle](https://github.com/OpenWaggle/OpenWaggle)** — Desktop coding agent with multi-model LLM support. Electron + React 19 + TanStack AI.
 
   ### Interests
 
