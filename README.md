@@ -9,6 +9,7 @@
   ### What I'm building
 
   - **[OpenWaggle](https://github.com/OpenWaggle/OpenWaggle)** — Desktop coding agent with multi-model LLM support. Electron + React 19 + TanStack AI.
+  - **[ts-match](https://github.com/DiegoGBrisa/ts-match)** — A lightweight yet powerfull pattern matching library for TypeScript.
 
   ### Interests
 
